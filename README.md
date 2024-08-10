@@ -1,7 +1,7 @@
 # Personal Projects
 Collection of data science projects for fun and self-learning. 
 
-*Primary tools: Python, pandas, numpy, matplotlib, seaborn, scikit-learn, TensorFlow/Keras, Tableau, Neo4j, Plotly, NLTK, and Pygsheets.
+*Primary tools: Python, pandas, numpy, matplotlib, seaborn, scikit-learn, TensorFlow/Keras, Tableau, Neo4j, Plotly, NLTK, and Pygsheets.*
 
 1. Asthma Risk Factor Analysis
 
