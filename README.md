@@ -1,8 +1,10 @@
 # Personal Projects
 Collection of data science projects for fun and self-learning. 
 
-*Primary tools: Python, pandas, numpy, matplotlib, seaborn, scikit-learn, TensorFlow/Keras, Tableau, Neo4j, Plotly, NLTK, and Pygsheets.*
+*Primary tools: SQL, Excel, Python, pandas, numpy, matplotlib, seaborn, scikit-learn, TensorFlow/Keras, Tableau, Neo4j, Plotly, NLTK, and Pygsheets.*
 
+## Contents
+#### Data Analysis
 1. Asthma Risk Factor Analysis
 
    - Analyzed risk factors for asthma using Python and machine learning techniques.
@@ -20,7 +22,7 @@ Collection of data science projects for fun and self-learning.
    - Visualized patient journeys using a Sankey diagram to highlight transitions between conditions.
    - Built a graph-based analysis tool using Neo4j and Python.
    - Enhanced understanding of patient data for better chronic disease management.
-
+#### Machine Learning
 4. Bird Identifier
 
     - Created a convolutional neural network (CNN) to classify bird species from images.
