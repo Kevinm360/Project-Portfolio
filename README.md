@@ -7,9 +7,9 @@ Collection of data science projects for fun and self-learning.
 #### Data Analysis
 1. Multi-Product Amazon Review Scraper
 
-   -Developed a tool to scrape and analyze reviews for multiple products on Amazon.
-   -Implemented VADER sentiment analysis to categorize reviews as positive, mixed, or negative.
-   -Enhanced functionality to process up to 30 products per page for broader review analysis.
+   - Developed a tool to scrape and analyze reviews for multiple products on Amazon.
+   - Implemented VADER sentiment analysis to categorize reviews as positive, mixed, or negative.
+   - Enhanced functionality to process up to 30 products per page for broader review analysis.
 
 
 
